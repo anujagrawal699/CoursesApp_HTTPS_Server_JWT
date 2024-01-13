@@ -1,4 +1,4 @@
-## Create a course selling website
+## Course selling website
 
 ### Description
 Functionally the same as CoursesApp_HTTPS_Server. Routes are different though. 
