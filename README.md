@@ -5,7 +5,13 @@ Functionally the same as CoursesApp_HTTPS_Server. Routes are different though.
 I'm going to use Json Web Tokens (JWT) for the same. 
 When the user signs up, they should get back a jwt that is valid for 1 hour. 
 They should then send just that jwt vs sending username and password to the authenticated routes.
-Without JWT authentication : https://github.com/anujagrawal699/CoursesApp_HTTPS_Server
+
+Senior Version:    
+https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_MongoDB    
+https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_FileSystem    
+
+Junior Versions:      
+https://github.com/anujagrawal699/CoursesApp_HTTPS_Server
 
 
 ## Routes
